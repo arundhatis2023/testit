@@ -1,0 +1,36 @@
+[33mcommit c6069fa1acda2d9d39c4791da3cbd75ff5139715[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Arundhati <arundhati.s2023@gmail.com>
+Date:   Sat Jul 18 16:08:59 2026 -0500
+
+    changes in chapter4
+
+[33mcommit f3579ac03af404171aa950b36dbd910ae3e442b8[m
+Merge: 870b80a a3d1bb5
+Author: Arundhati <arundhati.s2023@gmail.com>
+Date:   Sat Jul 18 15:46:27 2026 -0500
+
+    Merge branch 'alien'
+
+[33mcommit 870b80afbced5969e2cafd1ede8b6b28c5e9d389[m
+Author: Arundhati <arundhati.s2023@gmail.com>
+Date:   Sat Jul 18 15:36:50 2026 -0500
+
+    add chapter 4
+
+[33mcommit a3d1bb5b9218ee10d89a6eec0844e11932e5a75d[m[33m ([m[1;32malien[m[33m)[m
+Author: Arundhati <arundhati.s2023@gmail.com>
+Date:   Sat Jul 18 15:18:54 2026 -0500
+
+    Branching
+
+[33mcommit 2e72671c3cb7f61a71275b06065a07f0e0dc5510[m
+Author: Arundhati <arundhati.s2023@gmail.com>
+Date:   Sun Jul 12 18:50:29 2026 -0500
+
+    changes done
+
+[33mcommit 9e0657b56e936e0e9e58dcab82c82ebf734621a8[m
+Author: Arundhati <arundhati.s2023@gmail.com>
+Date:   Sun Jul 12 18:13:07 2026 -0500
+
+    Final
